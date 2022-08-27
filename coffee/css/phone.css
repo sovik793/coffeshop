@@ -1,0 +1,49 @@
+#navbar{
+flex-direction: column;
+}
+#navbar ul li a{
+font-size: 1rem;
+padding: 0px 7px;
+padding-bottom: 8px;
+
+}
+/* home */
+#home{
+height: 525px;
+padding: 11px 130px;
+
+}
+#home::before{
+    height: 680px;
+    
+    }
+    #home p{
+        font-size: 13px;
+    }
+
+
+#services{
+    flex-direction: column;
+}
+#services .box{
+
+}
+
+#clints{
+flex-wrap: wrap ;
+}
+#clints img{
+    width: 66px;
+    height: auto;
+ }
+    clint-section {
+        height: 592px;
+    }
+
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 5px 9px;
+}
